@@ -11,10 +11,11 @@ The SmoothstepCHOP has a range input: `Fromrange1`, and `Fromrange2`. It also ha
 There are alternative modes such as "smootherstep", "smootheststep", and "linear clamp".
 
 ## Instructions
-[Build the dll yourself](https://docs.derivative.ca/Write_a_CPlusPlus_Plugin), or use "build/SmoothstepCHOP.dll"
+[Build the dll yourself](https://docs.derivative.ca/Write_a_CPlusPlus_Plugin), or use of the compiled DLL files. `CPlusPlusCHOP/build/SmoothstepCHOP.dll` has been compiled for TouchDesigner 2018.26750 and `CustomOperator/build/SmoothstepCHOP.dll` has been compiled for TouchDesigner 2019.17550. This newer version can be used as a [Custom Operator](https://docs.derivative.ca/Custom_Operators)
 
 ## Changelog
-* 2017-07-16 working version of smoothstep, smootherstep, smootheststep, and linear clamp.
+* 2019-08-07 create a Custom Operator version for TD 2019.17550.
+* 2019-07-16 working version of smoothstep, smootherstep, smootheststep, and linear clamp.
 
 ## Thanks
 * [Ken Perlin](https://mrl.nyu.edu/~perlin/)
